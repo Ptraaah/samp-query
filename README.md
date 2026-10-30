@@ -43,3 +43,9 @@ Alat query server SA-MP / open.mp lewat protokol UDP klasik: info server, rules,
 ## License
 
 MIT. By ptraaa (AMERTA Roleplay).
+
+## Support
+
+If this project helped you, you can support its development on Trakteer: https://trakteer.id/adel_putra2
+
+Kalau proyek ini membantu Anda, Anda bisa mendukung pengembangannya lewat Trakteer: https://trakteer.id/adel_putra2
