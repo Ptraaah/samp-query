@@ -101,7 +101,11 @@ def main():
     ap.add_argument("--players", action="store_true", help="list players (detailed)")
     ap.add_argument("--rules", action="store_true", help="show server rules")
     ap.add_argument("--json", action="store_true", help="JSON output")
+    ap.add_argument("--ptraaa", action="store_true", help=argparse.SUPPRESS)
     args = ap.parse_args()
+    if args.ptraaa:
+        print('samp-query, by ptraaa of AMERTA Roleplay. Sampai jumpa di Los Santos. More small tools: github.com/Ptraaah')
+        return
 
     srv = SampServer(args.server)
     try:
